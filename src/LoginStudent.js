@@ -18,7 +18,7 @@ function LoginStudent() {
   };
 
   console.log("watchAllFields", watchAllFields);
-  console.log("watchFields", watchFields);
+  // console.log("watchFields", watchFields);
 
   return (
     <>
